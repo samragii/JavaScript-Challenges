@@ -1,3 +1,4 @@
+//Write a function to check if pass or fail
 function checkPassOrFail(marks) {
     if(marks>=40)
     {
