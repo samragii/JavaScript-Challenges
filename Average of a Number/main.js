@@ -1,3 +1,4 @@
+//Write a function to calculate the average of all the numbers in an array
 function calculateAverage(arr) {
  let sum=0;
  let avg;
