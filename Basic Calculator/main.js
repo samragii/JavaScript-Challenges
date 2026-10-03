@@ -1,3 +1,4 @@
+//Write a function to perform the basic airthmetic operations
 function basicCalculator(num1, op, num2) {
     if(op=='+')
     {
