@@ -1,3 +1,4 @@
+//Write a function to check weather the vehicle is 2 wheeler or 4 wheeler
 function checkVehicleType(wheels) {
     if(wheels==2)
     {
