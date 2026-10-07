@@ -1,3 +1,4 @@
+//Write a function to find the sum of odd numbers in an array
 function sumOfOdds(numbers) {
  let sum=0;
  for(let i=0;i<numbers.length;i++)
