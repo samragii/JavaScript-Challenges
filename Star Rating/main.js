@@ -1,3 +1,4 @@
+//Write a function to generate a star ring
 function generateStarRating(rating) {
     let s="";
     for(let i=0;i<rating;i++)
