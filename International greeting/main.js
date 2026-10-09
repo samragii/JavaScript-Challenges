@@ -1,3 +1,4 @@
+//Write a function to greet a person in different language
 function greetUser(language) {
     if(language=="French")
     {
