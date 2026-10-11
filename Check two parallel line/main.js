@@ -1,3 +1,4 @@
+//Write a function to check if two lines are parallel
 function checkParallel(line1, line2) {
     let x1=line1[0];
     let y1=line1[1];
