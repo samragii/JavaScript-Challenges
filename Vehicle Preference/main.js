@@ -1,3 +1,4 @@
+//Write a function to find which vehicle the user likes
 function checkPreference(preference) {
    if(preference==2)
    {
