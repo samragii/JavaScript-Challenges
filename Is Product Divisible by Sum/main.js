@@ -1,3 +1,4 @@
+//Write a function to check if the product of two number is divisible by their sum
 function checkDivisibility(num1, num2) {
     if((num1*num2)%(num1+num2)==0)
     {
