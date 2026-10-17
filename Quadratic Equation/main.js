@@ -1,3 +1,4 @@
+//Write a function to find the root of the Quadratic Equation
 function findRoots(a, b, c) {
     let x=(-b+Math.sqrt(b**2-4*a*c))/2*a;
     let y=(-b-Math.sqrt(b**2-4*a*c))/2*a;
