@@ -1,3 +1,4 @@
+//Write a function to calculate the percentage change between two numbers
 function calculatePercentageChange(oldNum, newNum) {
     return ((newNum-oldNum)/oldNum)*100;
 }
