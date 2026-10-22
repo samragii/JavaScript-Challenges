@@ -1,3 +1,4 @@
+//Write a function to calculate the probability of an event
 function calculateProbability(totalOutcomes, favorableOutcomes) {
     return favorableOutcomes/totalOutcomes;
 }
