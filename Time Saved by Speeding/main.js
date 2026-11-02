@@ -1,3 +1,4 @@
+//Write a function to calculate the time saved by speeding
 function calculateTimeSaved(speed1, speed2, distance) {
     let time1= distance/speed1;
     let time2= distance/speed2;
