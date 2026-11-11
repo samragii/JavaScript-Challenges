@@ -1,3 +1,4 @@
+//Write a function to convert a given amount from one currency to another
 function convertCurrency(sourceCurrency, targetCurrency, amount) {
     if(sourceCurrency=="USD" && targetCurrency=="EUR")
     {
