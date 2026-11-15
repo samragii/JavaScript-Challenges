@@ -1,3 +1,4 @@
+//Write a function to calculate the compound interest
 function calculateCompoundInterest(P, r, t) {
     return P*(1+r/1)**t;
 }
